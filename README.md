@@ -3,4 +3,4 @@ repository.”
 
 "This is the second commit"
 
-"Changed added in dazzling_feature branch."
+"Changed made in dazzling_feature to provoke conflict."
