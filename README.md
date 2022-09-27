@@ -3,8 +3,7 @@ repository.”
 
 "This is the second commit"
 
-<<<<<<< HEAD
 "Fixed conflict"
->>>>>>> dazzling_feature
+
 
 
