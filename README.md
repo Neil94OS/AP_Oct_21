@@ -3,4 +3,8 @@ repository.”
 
 "This is the second commit"
 
-"Changed made in main branch."
+<<<<<<< HEAD
+"Fixed conflict"
+>>>>>>> dazzling_feature
+
+
