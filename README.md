@@ -3,4 +3,4 @@ repository.”
 
 "This is the second commit"
 
-"Changed added in dazzling_feature branch."
+"Changed made in main branch."
