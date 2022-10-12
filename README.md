@@ -5,5 +5,7 @@ repository.”
 
 "Fixed conflict"
 
+Adding commit as collaborator
+
 
 
